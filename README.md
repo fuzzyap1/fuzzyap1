@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fuzzyap1
+- 👀 I’m interested in Penetration Testing and Code Audit
+- 🌱 I’m currently learning code audit
+- 🌱 I hope I can help people to solve the security problems in the code project
